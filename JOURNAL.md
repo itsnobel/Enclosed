@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9.89h | 6 |
+| Week 2 | Tier 1 | 10.09h | 6 |
 
 ## Contents
 
@@ -25,9 +25,10 @@
 
 ### 2026-10-12: In I worked for some times for the previous week. In this week i will make a enclosure for My Aerodeck cyber security tool. before starting i discovered some enclosers found in web. And got idea how t
 
-**1h**
+**1.2h**
 
-In I worked for some times for the previous week. In this week i will make a enclosure for My Aerodeck cyber security tool. before starting i discovered some enclosers found in web. And got idea how to make my own
+In I worked for some times for the previous week. In this week i will make a enclosure for My Aerodeck cyber security tool. before starting i discovered some enclosers found in web. And got idea how to make my own.
+i researched which app would be best for me. i found Fusion 360 is good for me
 
 ![image](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/3fe5a18ed2af2bd8ff5b8a1f04ccd3b34b41574fcf7af489c82df59750d76cd0.png)
 this one proably made by resin, i dont have access of resin so i have to make thik wal 3d design like this
