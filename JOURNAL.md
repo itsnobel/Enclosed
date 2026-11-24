@@ -10,11 +10,11 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.91h | 6 |
+| Week 2 | Tier 1 | 9.89h | 6 |
 
 ## Contents
 
-1. [2026-10-12: This is the work of previous week. The timelaps was created but nowhere to submit.](#2026-10-12-this-is-the-work-of-previous-week-the-timelaps-wa)
+1. [2026-10-12: In I worked for some times for the previous week. In this week i will make a enclosure for My Aerodeck cyber security tool. before starting i discovered some enclosers found in web. And got idea how t](#2026-10-12-in-i-worked-for-some-times-for-the-previous-week-)
 2. [2026-10-17: I discovered which software is best for m e to start 3d modeling. i figured this out that best option for me is Fusion 360 and i started learning how to use that. I used this before in some robotics l](#2026-10-17-i-discovered-which-software-is-best-for-m-e-to-st)
 3. [2026-10-18: in this session i made the Cover for my casing and it was half done. I just made the battery get in , snap and lock part. other work is loading](#2026-10-18-in-this-session-i-made-the-cover-for-my-casing-an)
 4. [2026-10-18: In this session I made the upper cover according to the PCB. the work is almost done.Just left is finalizing.](#2026-10-18-in-this-session-i-made-the-upper-cover-according-)
@@ -23,13 +23,23 @@
 
 ## Design
 
-### 2026-10-12: This is the work of previous week. The timelaps was created but nowhere to submit.
+### 2026-10-12: In I worked for some times for the previous week. In this week i will make a enclosure for My Aerodeck cyber security tool. before starting i discovered some enclosers found in web. And got idea how t
 
-**3.02h**
+**1h**
 
-This is the work of previous week. The timelaps was created but nowhere to submit.
+In I worked for some times for the previous week. In this week i will make a enclosure for My Aerodeck cyber security tool. before starting i discovered some enclosers found in web. And got idea how to make my own
 
-[Timelapse](https://lookout.hackclub.com/api/media/a06e9946-d7c2-43bb-b1b6-14b8fe98a090/video.mp4)
+![image](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/3fe5a18ed2af2bd8ff5b8a1f04ccd3b34b41574fcf7af489c82df59750d76cd0.png)
+this one proably made by resin, i dont have access of resin so i have to make thik wal 3d design like this
+
+![image](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/6ec1d03c5d1bd34bb2804778ddfa6552b04033d4b76e5ec0ee3fdcde7423b748.png)
+i was thinking of making something screw held, but magnatic enclosure will be much better.
+screw-
+
+![image](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/6da364704741280754ecb40123adc7b1bde0ac5b75a8ef03391e16596c9b6f31.png)
+magnatic-
+
+![image](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/76e055bb7ff280c51fd05152a630bb1a2f499807cd2ec2e6bbe7e54b7c992bb3.png)
 
 ### 2026-10-17: I discovered which software is best for m e to start 3d modeling. i figured this out that best option for me is Fusion 360 and i started learning how to use that. I used this before in some robotics l
 
