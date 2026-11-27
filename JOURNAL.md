@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 13.49h | 8 |
+| Week 2 | Tier 1 | 15.49h | 8 |
 
 ## Contents
 
@@ -132,7 +132,7 @@ my progress in this session-
 
 ### 2026-11-27: In this session i fully completed the week-3 enclosure. That looks insane. i aded a unique type of back cover for it that requires a lot less space dor screws and looks pretty cool as well. I added so
 
-**2h**
+**4h**
 
 In this session i fully completed the week-3 enclosure. That looks insane. i aded a unique type of back cover for it that requires a lot less space dor screws and looks pretty cool as well. I added some finishing and make it look like professional. 
 
@@ -147,3 +147,5 @@ In this session i fully completed the week-3 enclosure. That looks insane. i ade
 ![Screenshot 2026-11-27 230939](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/6ae95e5673dfbce90eaf63f4781ce3a6534e6bec3264c5ba2cd966bff82b6ab2.png)
 
 also there a re many works remaining like finishing up github repository and other stuffs, so i have to do more works and that would take alost 2 hours to make BOm file along with full detailed readme.md
+
+[Timelapse](https://lookout.hackclub.com/api/media/6fe5085f-4f5a-4e5a-ad64-507e7dcd1841/video.mp4)
