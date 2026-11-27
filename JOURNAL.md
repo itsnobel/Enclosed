@@ -73,6 +73,7 @@ in this session i made the Cover for my casing and it was half done. I just made
 **1.6h**
 
 In this session I made the upper cover according to the PCB. the work is almost done.Just left is finalizing.
+The cover contains a battery that will snap it and i can unplugg it any time. this is made in such a way to take less space and look cool.
 
 [Timelapse](https://lookout.hackclub.com/api/media/9972e5bb-7d92-4aa5-94b7-3668293e6975/video.mp4)
 
