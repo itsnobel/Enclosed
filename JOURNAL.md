@@ -139,7 +139,8 @@ my progress in this session-
 
 **4h**
 
-In this session i fully completed the week-3 enclosure. That looks insane. i aded a unique type of back cover for it that requires a lot less space dor screws and looks pretty cool as well. I added some finishing and make it look like professional. 
+In this session i fully completed the week-3 enclosure. That looks insane. i aded a unique type of back cover for it that requires a lot less space dor screws and looks pretty cool as well. I added some finishing and make it look like professional. This snew case snaps by magnets so very nice to uncover it!!
+
 
 ![Screenshot 2026-11-27 231335](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/ad555732346f8192d285f4ecce5d1e944fb9f0212f2b1b8c35790a2b85f38c87.png)
 
