@@ -75,6 +75,10 @@ in this session i made the Cover for my casing and it was half done. I just made
 In this session I made the upper cover according to the PCB. the work is almost done.Just left is finalizing.
 The cover contains a battery that will snap it and i can unplugg it any time. this is made in such a way to take less space and look cool.
 
+![image](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/7a89444c5daa47b90b7b2e26ba7471c5acc68bfb777e5eeba0dc5b3ca5d14021.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/929291e78e276ca7ac05c55225fabd31b16fa70b4d7524c0bae4682fde7a7cf3.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/9972e5bb-7d92-4aa5-94b7-3668293e6975/video.mp4)
 
 ### 2026-11-23: In this session i opened Autodeck fusion and made the encloser for week 1 for the Aerodeck v2 model. In the previous session i have built the encloser is no need in use.
