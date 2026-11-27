@@ -20,7 +20,7 @@
 4. [2026-10-18: In this session I made the upper cover according to the PCB. the work is almost done.Just left is finalizing.](#2026-10-18-in-this-session-i-made-the-upper-cover-according-)
 5. [2026-11-23: In this session i opened Autodeck fusion and made the encloser for week 1 for the Aerodeck v2 model. In the previous session i have built the encloser is no need in use.](#2026-11-23-in-this-session-i-opened-autodeck-fusion-and-made)
 6. [2026-11-24: In this session i fully completed the Week 1 enclosure. Week 3, 4 is remaining](#2026-11-24-in-this-session-i-fully-completed-the-week-1-encl)
-7. [2026-11-27: Work session](#2026-11-27-work-session)
+7. [2026-11-27: In this session i started making enclosure dor week 3 project. This is a resubmission, so i wanted to put all enclosures in the same week project. so this project contains 2 sub projects.](#2026-11-27-in-this-session-i-started-making-enclosure-dor-we)
 
 ## Design
 
@@ -113,8 +113,18 @@ In this session i fully completed the Week 1 enclosure. Week 3, 4 is remaining
 
 [Timelapse](https://lookout.hackclub.com/api/media/63ffae11-59f6-491e-a403-cd9ba3f67202/video.mp4)
 
-### 2026-11-27: Work session
+### 2026-11-27: In this session i started making enclosure dor week 3 project. This is a resubmission, so i wanted to put all enclosures in the same week project. so this project contains 2 sub projects.
 
 **1.4h**
+
+In this session i started making enclosure dor week 3 project. This is a resubmission, so i wanted to put all enclosures in the same week project. so this project contains 2 sub projects. 
+
+my progress in this session-
+
+![Screenshot 2026-11-27 230917](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/81c5ee8527dfb872a9c985365b992032782232645093e6adb33f3f806e4f4d9f.png)
+
+![Screenshot 2026-11-27 230921](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/fc1c508c3a8f174ade572acde75bb0f0e3c34d200ec817ee387eb9fa29b2a387.png)
+
+![Screenshot 2026-11-27 230925](https://halflife.hackclub-assets.com/sessions/kLADEc5sK2Fovm0wktiefGOUmtv4XzPH/1456a213a536cb021b5e55d77f6fd7d31874e9465a4f0fa5fd9a7a7d68451656.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/0fb2b75a-396f-4ba9-86b1-5773f8df1012/video.mp4)
